@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/ayushverma-cs/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
