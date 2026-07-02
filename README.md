@@ -52,5 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
