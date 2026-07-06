@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushverma-cs/LeetCode/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ayushverma-cs/LeetCode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
