@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
+| [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushverma-cs/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushverma-cs/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 <!---LeetCode Topics End-->
