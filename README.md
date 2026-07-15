@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/ayushverma-cs/LeetCode/tree/master/0461-hamming-distance) |
 ## Math
 |  |
 | ------- |
