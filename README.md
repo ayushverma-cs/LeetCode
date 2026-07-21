@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ayushverma-cs/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/ayushverma-cs/LeetCode/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [0860-lemonade-change](https://github.com/ayushverma-cs/LeetCode/tree/master/0860-lemonade-change) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayushverma-cs/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
