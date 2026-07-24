@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ayushverma-cs/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
 ## Recursion
@@ -134,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
