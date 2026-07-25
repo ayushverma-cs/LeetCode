@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushverma-cs/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushverma-cs/LeetCode/tree/master/0520-detect-capital) |
+| [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayushverma-cs/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Divide and Conquer
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayushverma-cs/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 ## Linked List
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
+| [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/ayushverma-cs/LeetCode/tree/master/0860-lemonade-change) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
