@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
