@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ayushverma-cs/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ayushverma-cs/LeetCode/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ayushverma-cs/LeetCode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ayushverma-cs/LeetCode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
