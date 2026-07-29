@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/ayushverma-cs/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushverma-cs/LeetCode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayushverma-cs/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Divide and Conquer
 |  |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
