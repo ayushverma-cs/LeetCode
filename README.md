@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushverma-cs/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushverma-cs/LeetCode/tree/master/0520-detect-capital) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
 ## Recursion
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
