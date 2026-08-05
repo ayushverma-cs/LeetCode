@@ -1,13 +1,9 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n= nums.length;
-        int ac=n*(n+1)/2;
-        int ex=0;
-        for(int i=0;i<n;i++){
-            ex+=nums[i];
+        int x= nums.length;
+        for(int i=0;i<nums.length;i++){
+            x=x^i^nums[i];
         }
-        return  ac-ex;
-        
-        
+        return x;
     }
 }
