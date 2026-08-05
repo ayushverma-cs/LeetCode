@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ayushverma-cs/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/ayushverma-cs/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Breadth-First Search
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/ayushverma-cs/LeetCode/tree/master/0461-hamming-distance) |
 ## Math
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -154,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
