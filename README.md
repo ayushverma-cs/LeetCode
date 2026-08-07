@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ayushverma-cs/LeetCode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0860-lemonade-change](https://github.com/ayushverma-cs/LeetCode/tree/master/0860-lemonade-change) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
