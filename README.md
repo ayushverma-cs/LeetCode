@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ayushverma-cs/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayushverma-cs/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayushverma-cs/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ayushverma-cs/LeetCode/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
