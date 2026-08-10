@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ayushverma-cs/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ayushverma-cs/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -188,5 +189,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushverma-cs/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
