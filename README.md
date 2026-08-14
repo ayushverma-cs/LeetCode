@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ayushverma-cs/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2540-minimum-common-value](https://github.com/ayushverma-cs/LeetCode/tree/master/2540-minimum-common-value) |
+| [2643-row-with-maximum-ones](https://github.com/ayushverma-cs/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Binary Search
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2643-row-with-maximum-ones](https://github.com/ayushverma-cs/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String
 |  |
