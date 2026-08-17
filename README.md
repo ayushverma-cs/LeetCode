@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushverma-cs/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/ayushverma-cs/LeetCode/tree/master/0520-detect-capital) |
+| [0649-dota2-senate](https://github.com/ayushverma-cs/LeetCode/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ayushverma-cs/LeetCode/tree/master/0763-partition-labels) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/ayushverma-cs/LeetCode/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ayushverma-cs/LeetCode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/ayushverma-cs/LeetCode/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0738-monotone-increasing-digits) |
