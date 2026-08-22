@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ayushverma-cs/LeetCode/tree/master/0763-partition-labels) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushverma-cs/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayushverma-cs/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Divide and Conquer
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushverma-cs/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ayushverma-cs/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
 | ------- |
