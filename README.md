@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ayushverma-cs/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ayushverma-cs/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1402-reducing-dishes](https://github.com/ayushverma-cs/LeetCode/tree/master/1402-reducing-dishes) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ayushverma-cs/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ayushverma-cs/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushverma-cs/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1402-reducing-dishes](https://github.com/ayushverma-cs/LeetCode/tree/master/1402-reducing-dishes) |
 ## Queue
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ayushverma-cs/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1323-maximum-69-number](https://github.com/ayushverma-cs/LeetCode/tree/master/1323-maximum-69-number) |
+| [1402-reducing-dishes](https://github.com/ayushverma-cs/LeetCode/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/ayushverma-cs/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ayushverma-cs/LeetCode/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ayushverma-cs/LeetCode/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ayushverma-cs/LeetCode/tree/master/1029-two-city-scheduling) |
+| [1402-reducing-dishes](https://github.com/ayushverma-cs/LeetCode/tree/master/1402-reducing-dishes) |
 | [1710-maximum-units-on-a-truck](https://github.com/ayushverma-cs/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Simulation
 |  |
