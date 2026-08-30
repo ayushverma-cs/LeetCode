@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushverma-cs/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushverma-cs/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ayushverma-cs/LeetCode/tree/master/0326-power-of-three) |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/ayushverma-cs/LeetCode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0738-monotone-increasing-digits) |
@@ -288,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushverma-cs/LeetCode/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
