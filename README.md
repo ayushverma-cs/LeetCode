@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/ayushverma-cs/LeetCode/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/ayushverma-cs/LeetCode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ayushverma-cs/LeetCode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ayushverma-cs/LeetCode/tree/master/0459-repeated-substring-pattern) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0338-counting-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayushverma-cs/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushverma-cs/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushverma-cs/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ayushverma-cs/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ayushverma-cs/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/ayushverma-cs/LeetCode/tree/master/0763-partition-labels) |
