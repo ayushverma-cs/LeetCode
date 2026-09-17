@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ayushverma-cs/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ayushverma-cs/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ayushverma-cs/LeetCode/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ayushverma-cs/LeetCode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ayushverma-cs/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushverma-cs/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushverma-cs/LeetCode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ayushverma-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushverma-cs/LeetCode/tree/master/0242-valid-anagram) |
