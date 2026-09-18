@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ayushverma-cs/LeetCode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0330-patching-array](https://github.com/ayushverma-cs/LeetCode/tree/master/0330-patching-array) |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushverma-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayushverma-cs/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/ayushverma-cs/LeetCode/tree/master/0413-arithmetic-slices) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/ayushverma-cs/LeetCode/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/ayushverma-cs/LeetCode/tree/master/0630-course-schedule-iii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ayushverma-cs/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ayushverma-cs/LeetCode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ayushverma-cs/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushverma-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushverma-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushverma-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/ayushverma-cs/LeetCode/tree/master/0763-partition-labels) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayushverma-cs/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ayushverma-cs/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ayushverma-cs/LeetCode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ayushverma-cs/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0406-queue-reconstruction-by-height](https://github.com/ayushverma-cs/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ayushverma-cs/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -272,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushverma-cs/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/ayushverma-cs/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
@@ -326,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/ayushverma-cs/LeetCode/tree/master/0357-count-numbers-with-unique-digits) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ayushverma-cs/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
